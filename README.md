@@ -26,6 +26,8 @@ Functionality
 	- there are options/buttons to toggle between different graphs/visualizations
 
 Wireframe
+![wireframe1](https://i.imgur.com/xnKEJJQ.png "wireframe 1")
+![wireframe2](https://i.imgur.com/viE1lBW.png "wireframe 2")
 
 
 Technologies Employed
@@ -36,27 +38,30 @@ Technologies Employed
 
 
 MVPS
-	- 1 Search Bar. user can type in the name of a company
-	- 2 Main Graph- displays breakdown of each factor
-	- 3 other graphs- users can toggle between different graph types
+- 1 Search Bar. user can type in the name of a company
+- 2 Main Graph- displays breakdown of each factor
+- 3 other graphs- users can toggle between different graph types
 
 
 Development Timeline
 Day 1:
-	- review D3 Tutorial
-	- complete skeleton setup and basic page
-	- complete wireframes for different graphs
-	- find correct data/API
-	- start search bar
+- review D3 Tutorial
+- complete skeleton setup and basic page
+- complete wireframes for different graphs
+- find correct data/API
+- start search bar
 
 Day 2:
-	- search bar
+- search bar
 
 Day 3:
-	- create Main graph
+- create Main graph
 
 Day 4:
-	- create graph 2
+- create graph 2
 
 Day 5:
-	-  create graph 3
+- create graph 3
+
+BONUS
+- find new way to visualize data
