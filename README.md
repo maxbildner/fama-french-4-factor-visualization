@@ -1,7 +1,7 @@
 # fama-french-visualization
 ### Background Info: 
 Eugene Fama, Kenneth French, and Mark Carhart came up with a model that
-explain a firm’s/portfolio’s return based on 4 factors:
+explains a firm’s/portfolio’s return based on 4 factors:
 1. Value (how cheap it is)   
 	measured by High Minus Low (HML)
 	- Price to Book ratio (market cap / net book value)
