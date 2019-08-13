@@ -1,5 +1,6 @@
 # fama-french-visualization
-Background Info: Eugene Fama, Kenneth French, and Mark Carhart came up with a model that
+### Background Info: 
+Eugene Fama, Kenneth French, and Mark Carhart came up with a model that
 explain a firm’s/portfolio’s return based on 4 factors:
 1. Value (how cheap it is)   
 	measured by High Minus Low (HML)
@@ -16,34 +17,35 @@ explain a firm’s/portfolio’s return based on 4 factors:
 	- winners will tend to win, and losers will tend to lose
 4. Sensitivity of market’s return to firm/portfolio return
 
-Project Overview:
+### Project Overview:
 This project attempts to visualize the 4-factor model. 
 
-Functionality
+### Functionality
 	- users can type in the name of a publicly listed company into a search bar
 	- a graph will appear showing the breakdown of how each factor affects the
 	portfolio/firm
 	- there are options/buttons to toggle between different graphs/visualizations
 
-Wireframe
+### Wireframe
 ![wireframe1](https://i.imgur.com/xnKEJJQ.png "wireframe 1")
 ![wireframe2](https://i.imgur.com/viE1lBW.png "wireframe 2")
 
 
-Technologies Employed
+### Technologies Employed
 - Vanila JavaScript
 - D3 for data mapping
 - Webpack
 - HTML/CSS
 
 
-MVPS
+### MVPS
 - 1 Search Bar. user can type in the name of a company
 - 2 Main Graph- displays breakdown of each factor
 - 3 other graphs- users can toggle between different graph types
 
 
-Development Timeline
+### Development Timeline
+
 Day 1:
 - review D3 Tutorial
 - complete skeleton setup and basic page
